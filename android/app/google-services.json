@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853987172799",
+    "firebase_url": "https://flash-chat-5aab7.firebaseio.com",
+    "project_id": "flash-chat-5aab7",
+    "storage_bucket": "flash-chat-5aab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853987172799:android:061389cf130051610c810a",
+        "android_client_info": {
+          "package_name": "com.marcelohirota.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853987172799-ml6d09dsh8t1ajp4ck4si813ea344qob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGiPVIOy2zDCy1izWaYp-ubzgEW9aZWig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853987172799-ml6d09dsh8t1ajp4ck4si813ea344qob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
